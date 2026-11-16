@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=650&lines=Reconnaissance+in+progress...;Build+with+curiosity.;Break+to+understand.;Secure+what+matters.;Stay+ curious.+Keep+learning." alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=650&lines=Reconnaissance+in+progress...;Build+with+curiosity.;Break+to+understand.;Secure+what+matters.;Stay+curious.+Keep+learning." alt="Typing intro">
 </p>
 
 ---
