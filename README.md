@@ -1,116 +1,144 @@
 <!--
   DARK ANDR0XY // GitHub profile
-  Focus: Linux • Cybersecurity • Web Security • Networking • CTF
+  Two tracks: Cybersecurity × Software Development
 -->
 
 <p align="center">
-  <img src="./assets/dark-andr0xy-banner.svg" alt="DARK ANDR0XY — Cybersecurity / Linux / CTF" width="100%">
+  <img src="./assets/dark-andr0xy-banner.svg" alt="DARK ANDR0XY — Cybersecurity and Software Development" width="100%">
 </p>
 
 <h1 align="center">DARK ANDR0XY</h1>
 <p align="center">
-  <code>@r3con-ng</code> &nbsp;|&nbsp; <code>Linux • Cybersecurity • CTF</code>
+  <code>@r3con-ng</code> &nbsp;|&nbsp; <code>CYBERSECURITY × SOFTWARE DEVELOPMENT</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=650&color=39FF88&center=true&vCenter=true&width=720&lines=%24+initializing+security+lab...;%24+loading+linux+environment...;%24+exploring+web+application+security...;%24+analyzing+network+traffic...;%24+learn.+test.+document.+repeat." alt="Animated terminal introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=650&color=39FF88&center=true&vCenter=true&width=760&lines=%24+initializing+dual-track+workflow...;%24+cybersecurity%3A+recon.+analyze.+secure.;%24+development%3A+design.+build.+debug.;%24+linux+%7C+networks+%7C+web+technologies;%24+learn.+build.+break+in+labs.+improve." alt="Animated dual-track terminal introduction">
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-r3con--ng-111111?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/MODE-LEARNING%20%26%20LAB-39FF88?style=for-the-badge&labelColor=111111" alt="Learning mode">
+  <img src="https://img.shields.io/badge/FOCUS-TWO%20TRACKS-39FF88?style=for-the-badge&labelColor=111111" alt="Two focus tracks">
 </p>
 
 ---
 
-### `01 // IDENTITY`
+### `00 // WHOAMI`
 
 ```bash
-┌──(darkandr0xy㉿kali)-[~]
+┌──(darkandr0xy㉿r3con-ng)-[~]
 └─$ whoami
 Dark Andr0xy
 
-┌──(darkandr0xy㉿kali)-[~]
-└─$ cat /etc/profile
+┌──(darkandr0xy㉿r3con-ng)-[~]
+└─$ cat mission.txt
+Explore systems. Build software. Understand security.
 ```
 
-I'm a **Linux enthusiast and cybersecurity learner** with a strong interest in ethical hacking, web application security, networking, and CTF-style problem solving.
+I'm working toward two connected goals: **Cybersecurity** and **Software Development**.
 
-I enjoy exploring how operating systems, networks, and applications work under the hood. My approach is hands-on: learn a concept, test it in a lab or authorized environment, understand the result, and document what I discover.
+One side is about understanding systems, networks, and application security. The other is about designing, coding, and shipping useful software. I enjoy both because building technology and understanding how to secure it go hand in hand.
 
-- 🐧 Linux user; primarily exploring **Arch Linux** and **BlackArch Linux**.
-- 🛡️ Interested in ethical hacking, web security, vulnerability analysis, and defensive security.
-- 🌐 Building my understanding of computer networks and web technologies.
-- 🧩 Interested in CTF challenges, reconnaissance, and practical security labs.
-- 💻 Also build web projects and strengthen my software engineering fundamentals.
+---
 
-> **Operating principle:** Learn deeply. Test ethically. Document clearly. Never test systems without permission.
+## `01 // CYBERSECURITY TRACK`
 
-### `02 // LINUX ENVIRONMENT`
+<text></text>
+**RECON · ANALYZE · TEST · SECURE**
 
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/BlackArch-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch Linux">
-  <img src="https://img.shields.io/badge/Terminal-111111?style=flat-square&logo=windowsterminal&logoColor=39FF88" alt="Terminal">
-  <img src="https://img.shields.io/badge/Wayland-111111?style=flat-square&logo=wayland&logoColor=39FF88" alt="Wayland">
-</p>
+My security journey is focused on Linux, networking, ethical hacking concepts, web application security, and CTF-style problem solving. I prefer learning through hands-on practice in personal labs and authorized environments.
 
-Linux is a core part of my daily technical workflow. I enjoy working in the terminal, configuring my environment, managing packages, troubleshooting systems, and exploring security-focused Linux tooling.
+**Linux environment**
+- Arch Linux as my primary Linux environment and exploring **BlackArch Linux** and its security-focused toolset.
+- Terminal workflows, package management, system configuration, and troubleshooting.
+- Exploring security utilities available across Linux environments.
 
-### `03 // SECURITY TOOLKIT`
-
-**Hands-on focus / tools of interest**
+**Security tools & learning areas**
 
 <p>
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
-  <img src="https://img.shields.io/badge/BlackArch_Tools-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch tools">
+  <img src="https://img.shields.io/badge/BlackArch-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=linux&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
 </p>
 
-- **OWASP ZAP** — exploring web application security testing and proxy-based inspection.
-- **BlackArch toolset** — exploring security and penetration-testing utilities in a Linux environment.
-- **CTF / security labs** — practicing concepts in controlled, authorized environments.
+- **OWASP ZAP** — web proxy, request inspection, and learning web application security testing.
+- **BlackArch tools** — exploring the security utilities and workflows available in the distribution.
+- **Nmap / Wireshark / Burp Suite** — tools on my exploration list for network discovery, traffic analysis, and web testing.
+- **CTFs & labs** — learning methodology through controlled challenges and authorized practice.
 
-**Currently exploring:** Nmap • Wireshark • Burp Suite • web reconnaissance • vulnerability assessment workflows.
+**Networking foundations**
 
-### `04 // NETWORKING & WEB FUNDAMENTALS`
-
-| Area | Concepts |
+| Area | Concepts I'm building on |
 |---|---|
-| Networking | TCP/IP, OSI model, ports, protocols, subnetting fundamentals |
-| Network services | DNS, DHCP, routing, HTTP/HTTPS |
-| Traffic & diagnostics | Packet flow, connectivity troubleshooting, traffic inspection concepts |
-| Web security | Requests and responses, cookies, sessions, proxies, common web vulnerabilities |
-| Security mindset | Attack surface, reconnaissance, risk awareness, responsible disclosure |
+| Network models | OSI model, TCP/IP |
+| Addressing | IPv4, subnetting fundamentals |
+| Protocols & ports | TCP, UDP, DNS, DHCP, HTTP/HTTPS |
+| Network infrastructure | Routing, switching concepts, common services |
+| Analysis | Packet flow, traffic inspection, connectivity troubleshooting |
+| Web security | Requests, responses, cookies, sessions, proxies, common vulnerabilities |
 
-### `05 // DEVELOPMENT STACK`
+**Cybersecurity objectives**
+- Improve Linux and command-line proficiency.
+- Build stronger networking and packet-analysis fundamentals.
+- Practice web security testing with OWASP ZAP.
+- Explore BlackArch utilities and understand when to use them.
+- Solve CTF challenges and keep structured lab notes.
+- Develop a responsible, ethical approach to security research.
+
+---
+
+## `02 // SOFTWARE DEVELOPMENT TRACK`
+
+**DESIGN · CODE · DEBUG · BUILD**
+
+I also enjoy creating practical applications and turning ideas into working prototypes. My current development foundation is front-end web development, while I continue strengthening core programming and software engineering concepts.
+
+**Current development stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, Linux and VS Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code and Linux">
 </p>
 
-**Also working on:** OOP • Data Structures & Algorithms • Databases • software engineering fundamentals.
+- **Frontend:** HTML, CSS, JavaScript.
+- **Developer workflow:** Git, GitHub, VS Code, browser-based debugging.
+- **Core foundations:** OOP, Data Structures & Algorithms, databases, and problem solving.
 
-### `06 // BUILD LOG`
+**What I'm growing into**
+- **MERN Stack:** exploring MongoDB, Express.js, React, and Node.js to expand from frontend into full-stack development.
+- **AI & emerging technologies:** learning how AI can be applied in useful software and real-world projects.
+- **Software engineering:** writing cleaner code, structuring projects, debugging, and improving maintainability.
 
-| Project | Description |
-|---|---|
-| [**Guide-Motion**](https://github.com/r3con-ng/Guide-Motion) | A simulated railway companion prototype for exploring train journeys, station facilities, and passenger services. |
-| [**KisanConnect**](https://github.com/r3con-ng/KisanConnect) | A bilingual farmer-to-consumer marketplace prototype built around an Indian agriculture use case. |
-| [**Diet-chart**](https://github.com/r3con-ng/Diet-chart) | A browser-based diet chart builder with nutrition tracking and export features. |
+**Developer objectives**
+- Strengthen JavaScript and programming fundamentals.
+- Build more complete web applications.
+- Progress toward full-stack development with the MERN ecosystem.
+- Improve OOP, DSA, and database knowledge through practice.
+- Explore practical AI integrations.
+- Write maintainable code and use Git/GitHub effectively.
 
-### `07 // CURRENT OBJECTIVES`
+---
+
+### `03 // PROJECTS & BUILDS`
+
+| Project | Track | Description |
+|---|---|---|
+| [**Guide-Motion**](https://github.com/r3con-ng/Guide-Motion) | Software Development | A simulated railway companion prototype for exploring train journeys, station facilities, and passenger services. |
+| [**KisanConnect**](https://github.com/r3con-ng/KisanConnect) | Software Development | A bilingual farmer-to-consumer marketplace prototype built around an Indian agriculture use case. |
+| [**Diet-chart**](https://github.com/r3con-ng/Diet-chart) | Software Development | A browser-based diet chart builder with nutrition tracking and export features. |
+
+### `04 // CURRENT STATUS`
 
 ```text
-[+] Strengthen Linux administration and shell workflow
-[+] Practice networking fundamentals and packet analysis
-[+] Learn web application security with OWASP ZAP
-[+] Explore BlackArch utilities and security tool workflows
-[+] Solve CTF challenges and maintain lab notes
-[+] Build projects with security-aware development practices
+[ CYBERSECURITY ]  Linux / BlackArch / OWASP ZAP / Networking / CTF
+[ DEVELOPMENT  ]  HTML / CSS / JavaScript / Git / Web Applications
+[ EXPLORING    ]  MERN Stack / AI / Security Tooling / Packet Analysis
+[ MINDSET      ]  Build responsibly. Test ethically. Keep learning.
 ```
 
-### `08 // GITHUB TELEMETRY`
+### `05 // GITHUB TELEMETRY`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=r3con-ng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=C9D1D9" alt="GitHub statistics">
@@ -120,10 +148,10 @@ Linux is a core part of my daily technical workflow. I enjoy working in the term
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=r3con-ng&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
 </p>
 
-### `09 // CONNECT`
+### `06 // CONNECT`
 
 <p align="center">
-  Interested in cybersecurity, Linux, CTFs, open-source tools, and learning with the community.
+  Interested in cybersecurity, software development, Linux, open source, CTFs, and building useful technology.
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/vaibhavpandey2006">LinkedIn</a> &nbsp; • &nbsp;
@@ -131,6 +159,6 @@ Linux is a core part of my daily technical workflow. I enjoy working in the term
 </p>
 
 <p align="center">
-  <code>[ SESSION: ACTIVE ]</code> &nbsp; <code>[ ETHICS: ENABLED ]</code> &nbsp; <code>[ STATUS: LEARNING ]</code>
+  <code>[ CYBERSECURITY: ACTIVE ]</code> &nbsp; <code>[ DEVELOPMENT: ACTIVE ]</code> &nbsp; <code>[ LEARNING: ALWAYS ]</code>
 </p>
-<p align="center"><sub>RECON • ANALYZE • LEARN • SECURE</sub></p>
+<p align="center"><sub>UNDERSTAND • BUILD • TEST • SECURE</sub></p>
