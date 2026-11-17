@@ -1,104 +1,136 @@
 <!--
   DARK ANDR0XY // GitHub profile
-  Identity: @r3con-ng
-  Theme: Cybersecurity • CTF • Linux • Software Engineering
+  Focus: Linux • Cybersecurity • Web Security • Networking • CTF
 -->
 
 <p align="center">
-  <img src="./assets/dark-andr0xy-banner.svg" alt="Dark Andr0xy — Recon. Build. Secure." width="100%">
+  <img src="./assets/dark-andr0xy-banner.svg" alt="DARK ANDR0XY — Cybersecurity / Linux / CTF" width="100%">
 </p>
 
 <h1 align="center">DARK ANDR0XY</h1>
 <p align="center">
-  <code>Software Engineering Aspirant</code> • <code>Linux Enthusiast</code> • <code>Cybersecurity & CTF Explorer</code>
+  <code>@r3con-ng</code> &nbsp;|&nbsp; <code>Linux • Cybersecurity • CTF</code>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-@r3con--ng-111827?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=650&color=39FF88&center=true&vCenter=true&width=720&lines=%24+initializing+security+lab...;%24+loading+linux+environment...;%24+exploring+web+application+security...;%24+analyzing+network+traffic...;%24+learn.+test.+document.+repeat." alt="Animated terminal introduction">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=650&lines=Reconnaissance+in+progress...;Build+with+curiosity.;Break+to+understand.;Secure+what+matters.;Stay+curious.+Keep+learning." alt="Typing intro">
+  <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-r3con--ng-111111?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/MODE-LEARNING%20%26%20LAB-39FF88?style=for-the-badge&labelColor=111111" alt="Learning mode">
 </p>
 
 ---
 
-### `01 // WHOAMI`
+### `01 // IDENTITY`
 
 ```bash
-┌──(darkandr0xy㉿r3con-ng)-[~]
+┌──(darkandr0xy㉿kali)-[~]
 └─$ whoami
-dark_andr0xy
+Dark Andr0xy
 
-┌──(darkandr0xy㉿r3con-ng)-[~]
-└─$ cat about.txt
+┌──(darkandr0xy㉿kali)-[~]
+└─$ cat /etc/profile
 ```
 
-I'm a **Mechanical Engineering student at Rewa Engineering College (RGPV)** working toward a career in software engineering, with a growing focus on cybersecurity.
+I'm a **Linux enthusiast and cybersecurity learner** with a strong interest in ethical hacking, web application security, networking, and CTF-style problem solving.
 
-I've been exploring Linux since **2019–2020** and enjoy understanding how systems work, building practical applications, and learning how to make technology more secure. I’m currently strengthening my foundations in **OOP, data structures, algorithms, and databases**, while taking part in hackathons and CTF challenges.
+I enjoy exploring how operating systems, networks, and applications work under the hood. My approach is hands-on: learn a concept, test it in a lab or authorized environment, understand the result, and document what I discover.
 
-> **Mindset:** Think like an engineer. Explore like a researcher. Build responsibly.
+- 🐧 Linux user; primarily exploring **Arch Linux** and **BlackArch Linux**.
+- 🛡️ Interested in ethical hacking, web security, vulnerability analysis, and defensive security.
+- 🌐 Building my understanding of computer networks and web technologies.
+- 🧩 Interested in CTF challenges, reconnaissance, and practical security labs.
+- 💻 Also build web projects and strengthen my software engineering fundamentals.
 
-### `02 // CURRENT OPERATIONS`
+> **Operating principle:** Learn deeply. Test ethically. Document clearly. Never test systems without permission.
 
-- Developing practical web applications and learning software engineering fundamentals.
-- Exploring cybersecurity, web security concepts, and CTF-style problem solving.
-- Working with Linux, Git, GitHub, and open-source tools.
-- Strengthening OOP, DSA, and database fundamentals.
-- Exploring the intersection of software, AI, and real-world problem solving.
-
-### `03 // TECH ARSENAL`
+### `02 // LINUX ENVIRONMENT`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode,autocad" alt="HTML, CSS, JavaScript, Git, GitHub, Linux, VS Code and AutoCAD">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/BlackArch-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch Linux">
+  <img src="https://img.shields.io/badge/Terminal-111111?style=flat-square&logo=windowsterminal&logoColor=39FF88" alt="Terminal">
+  <img src="https://img.shields.io/badge/Wayland-111111?style=flat-square&logo=wayland&logoColor=39FF88" alt="Wayland">
 </p>
 
-**Currently learning:** OOP • Data Structures & Algorithms • Databases • Cybersecurity fundamentals
+Linux is a core part of my daily technical workflow. I enjoy working in the terminal, configuring my environment, managing packages, troubleshooting systems, and exploring security-focused Linux tooling.
 
-### `04 // FIELD PROJECTS`
+### `03 // SECURITY TOOLKIT`
 
-| Project | What it does |
+**Hands-on focus / tools of interest**
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/BlackArch_Tools-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch tools">
+</p>
+
+- **OWASP ZAP** — exploring web application security testing and proxy-based inspection.
+- **BlackArch toolset** — exploring security and penetration-testing utilities in a Linux environment.
+- **CTF / security labs** — practicing concepts in controlled, authorized environments.
+
+**Currently exploring:** Nmap • Wireshark • Burp Suite • web reconnaissance • vulnerability assessment workflows.
+
+### `04 // NETWORKING & WEB FUNDAMENTALS`
+
+| Area | Concepts |
 |---|---|
-| [**Guide-Motion**](https://github.com/r3con-ng/Guide-Motion) | A fully simulated railway journey companion prototype covering train exploration, station facilities, meal ordering, and passenger assistance. |
-| [**KisanConnect**](https://github.com/r3con-ng/KisanConnect) | A bilingual farmer-to-consumer marketplace prototype developed for BGI Hackathon 2026. |
-| [**Diet-chart**](https://github.com/r3con-ng/Diet-chart) | A browser-based diet chart builder with nutrition tracking and PDF/Excel export. |
+| Networking | TCP/IP, OSI model, ports, protocols, subnetting fundamentals |
+| Network services | DNS, DHCP, routing, HTTP/HTTPS |
+| Traffic & diagnostics | Packet flow, connectivity troubleshooting, traffic inspection concepts |
+| Web security | Requests and responses, cookies, sessions, proxies, common web vulnerabilities |
+| Security mindset | Attack surface, reconnaissance, risk awareness, responsible disclosure |
 
-### `05 // LEARNING & FIELD EXPERIENCE`
+### `05 // DEVELOPMENT STACK`
 
-- **BGI Hackathon 2026** — Led the *Straw Hats* team through the final day, developing the KisanConnect AgriTech prototype.
-- **BHEL Bhopal** — Vacation training experience (2026).
-- **iCOMPUTEX Technologies** — Participated in CTO-led workshops (October 2026).
-- **Cybersecurity learning** — Coursework and learning resources from Cisco, Palo Alto Networks, and EC-Council CodeRed.
-- **Community involvement** — Volunteered at college technology-fest, workshop, and SIP activities.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, Linux and VS Code">
+</p>
 
-*Coursework and training are listed as learning experiences, not professional certifications.*
+**Also working on:** OOP • Data Structures & Algorithms • Databases • software engineering fundamentals.
 
-### `06 // GITHUB TELEMETRY`
+### `06 // BUILD LOG`
+
+| Project | Description |
+|---|---|
+| [**Guide-Motion**](https://github.com/r3con-ng/Guide-Motion) | A simulated railway companion prototype for exploring train journeys, station facilities, and passenger services. |
+| [**KisanConnect**](https://github.com/r3con-ng/KisanConnect) | A bilingual farmer-to-consumer marketplace prototype built around an Indian agriculture use case. |
+| [**Diet-chart**](https://github.com/r3con-ng/Diet-chart) | A browser-based diet chart builder with nutrition tracking and export features. |
+
+### `07 // CURRENT OBJECTIVES`
+
+```text
+[+] Strengthen Linux administration and shell workflow
+[+] Practice networking fundamentals and packet analysis
+[+] Learn web application security with OWASP ZAP
+[+] Explore BlackArch utilities and security tool workflows
+[+] Solve CTF challenges and maintain lab notes
+[+] Build projects with security-aware development practices
+```
+
+### `08 // GITHUB TELEMETRY`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=r3con-ng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=C9D1D9" alt="GitHub statistics">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3con-ng&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9" alt="Most used languages">
 </p>
-
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=r3con-ng&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
 </p>
 
-### `07 // TRANSMISSION`
+### `09 // CONNECT`
 
 <p align="center">
-  Open to learning, collaboration, hackathons, and opportunities to grow in software engineering and cybersecurity.
+  Interested in cybersecurity, Linux, CTFs, open-source tools, and learning with the community.
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhavpandey2006">LinkedIn</a> &nbsp; • &nbsp;
+  <a href="https://github.com/r3con-ng">GitHub</a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Pandey-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GitHub-r3con--ng-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
+  <code>[ SESSION: ACTIVE ]</code> &nbsp; <code>[ ETHICS: ENABLED ]</code> &nbsp; <code>[ STATUS: LEARNING ]</code>
 </p>
-
-<p align="center">
-  <code>[ SESSION ACTIVE ]</code> &nbsp; <code>[ KEEP LEARNING ]</code> &nbsp; <code>[ USE SKILLS RESPONSIBLY ]</code>
-</p>
-
-<p align="center"><sub>“The quieter you become, the more you are able to hear.”</sub></p>
+<p align="center"><sub>RECON • ANALYZE • LEARN • SECURE</sub></p>
