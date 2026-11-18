@@ -1,0 +1,25 @@
+name: Refresh GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: r3con-ng
+          BRANCH_NAME: main
+          TIME_ZONE: Asia/Kolkata
+          THEME: github_dark
+          AUTO_PUSH: true
+          ANIMATION: none
