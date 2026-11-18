@@ -1,50 +1,49 @@
-<!-- FEATURED PORTFOLIO — primary profile destination -->
+<!-- DARK ANDR0XY // interactive profile terminal -->
+
 <div align="center">
-  <h1>↗ EXPLORE MY PORTFOLIO</h1>
-  <p><strong>CYBERSECURITY · SOFTWARE DEVELOPMENT · PROJECTS</strong></p>
-  <p>A closer look at what I build, what I explore, and what I'm learning.</p>
+
+  <h1>⟢ DARK ANDR0XY</h1>
+  <p><code>root@r3con-ng:~$ ./initialize_profile.sh</code></p>
+  <p><strong>CYBERSECURITY <code>×</code> SOFTWARE DEVELOPMENT</strong></p>
+
   <a href="https://r3con-ng.modulify.website/">
-    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-ENTER%20THE%20SYSTEM-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=111111&labelColor=111111" alt="Open DARK ANDR0XY portfolio">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20MY%20PORTFOLIO-ENTER%20THE%20SYSTEM-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF88&labelColor=080D0A" alt="Launch portfolio">
   </a>
-  <br>
-  <sub> r3con-ng.modulify.website </sub>
+
+  <p><code>r3con-ng.modulify.website</code></p>
+  <p><sub>PROJECTS • EXPERIMENTS • SKILLS • CURRENT BUILDS</sub></p>
+
+  <p>
+    <a href="#whoami"><img src="https://img.shields.io/badge/00-WHOAMI-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+    <a href="#cybersecurity"><img src="https://img.shields.io/badge/01-SECURITY-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+    <a href="#development"><img src="https://img.shields.io/badge/02-DEV-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+    <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+    <a href="#telemetry"><img src="https://img.shields.io/badge/04-TELEMETRY-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/05-CONNECT-111111?style=flat-square&labelColor=111111&color=39FF88"></a>
+  </p>
+
+  <img src="./assets/dark-andr0xy-banner.svg" width="100%" alt="DARK ANDR0XY — Cybersecurity and Software Development">
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&width=760&lines=%24+booting+dual-track+workflow...;%24+recon.+analyze.+understand.;%24+design.+code.+debug.+build.;%24+linux+%7C+networks+%7C+web+technologies;%24+learn.+build.+test+in+labs.+improve." alt="Animated terminal introduction">
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
+    <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-111111?style=for-the-badge&labelColor=111111&color=39FF88" alt="Always learning">
+  </p>
+
 </div>
 
 ---
 
-<!--
-  DARK ANDR0XY // GitHub profile
-  Two tracks: Cybersecurity × Software Development
--->
-
-<p align="center">
-  <img src="./assets/dark-andr0xy-banner.svg" alt="DARK ANDR0XY — Cybersecurity and Software Development" width="100%">
-</p>
-
-<h1 align="center">DARK ANDR0XY</h1>
-<p align="center">
-  <code>@r3con-ng</code> &nbsp;|&nbsp; <code>CYBERSECURITY × SOFTWARE DEVELOPMENT</code>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=650&color=39FF88&center=true&vCenter=true&width=760&lines=%24+initializing+dual-track+workflow...;%24+cybersecurity%3A+recon.+analyze.+secure.;%24+development%3A+design.+build.+debug.;%24+linux+%7C+networks+%7C+web+technologies;%24+learn.+build.+break+in+labs.+improve." alt="Animated dual-track terminal introduction">
-</p>
-
-<p align="center">
-  <a href="https://r3con-ng.modulify.website/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=111111&labelColor=111111" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-r3con--ng-111111?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/FOCUS-TWO%20TRACKS-39FF88?style=for-the-badge&labelColor=111111" alt="Two focus tracks">
-</p>
-
----
-
-### `00 // WHOAMI`
+## <a id="whoami"></a> `00 // WHOAMI`
 
 ```bash
 ┌──(darkandr0xy㉿r3con-ng)-[~]
 └─$ whoami
-Dark Andr0xy
+DARK ANDR0XY
 
 ┌──(darkandr0xy㉿r3con-ng)-[~]
 └─$ cat mission.txt
@@ -55,78 +54,90 @@ I'm working toward two connected goals: **Cybersecurity** and **Software Develop
 
 One side is about understanding systems, networks, and application security. The other is about designing, coding, and shipping useful software. I enjoy both because building technology and understanding how to secure it go hand in hand.
 
+<details>
+<summary><code>▶ ./show_current_focus.sh</code></summary>
+
+- **Security:** Linux, networking, ethical hacking concepts, web application security, CTF-style learning.
+- **Development:** frontend web development, JavaScript, software fundamentals, and practical prototypes.
+- **Approach:** hands-on learning, responsible testing, and continuous improvement.
+
+</details>
+
 ---
 
-## `01 // CYBERSECURITY TRACK`
+## <a id="cybersecurity"></a> <code>01 // CYBERSECURITY TRACK</code>
 
-<text></text>
-**RECON · ANALYZE · TEST · SECURE**
+<p><code>[ RECON ] → [ ANALYZE ] → [ TEST ] → [ SECURE ]</code></p>
 
-My security journey is focused on Linux, networking, ethical hacking concepts, web application security, and CTF-style problem solving. I prefer learning through hands-on practice in personal labs and authorized environments.
+My security journey is focused on Linux, networking, ethical hacking concepts, web application security, and CTF-style problem solving. I practice in personal labs and authorized environments.
 
-**Linux environment**
-- Arch Linux as my primary Linux environment and exploring **BlackArch Linux** and its security-focused toolset.
-- Terminal workflows, package management, system configuration, and troubleshooting.
-- Exploring security utilities available across Linux environments.
-
-**Security tools & learning areas**
+**ENVIRONMENT**
 
 <p>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
-  <img src="https://img.shields.io/badge/BlackArch-111111?style=flat-square&logo=linux&logoColor=39FF88" alt="BlackArch">
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=linux&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=flat-square&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/BLACKARCH-111111?style=flat-square&logo=linux&logoColor=39FF88">
+  <img src="https://img.shields.io/badge/TERMINAL-111111?style=flat-square&logo=gnubash&logoColor=39FF88">
 </p>
 
-- **OWASP ZAP** — web proxy, request inspection, and learning web application security testing.
-- **BlackArch tools** — exploring the security utilities and workflows available in the distribution.
-- **Nmap / Wireshark / Burp Suite** — tools on my exploration list for network discovery, traffic analysis, and web testing.
-- **CTFs & labs** — learning methodology through controlled challenges and authorized practice.
+**TOOLS ON MY LEARNING RADAR**
 
-**Networking foundations**
+<p>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/NMAP-214478?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
+</p>
 
-| Area | Concepts I'm building on |
+<details>
+<summary><code>＋ NETWORKING FOUNDATIONS</code></summary>
+
+| DOMAIN | CONCEPTS |
 |---|---|
 | Network models | OSI model, TCP/IP |
 | Addressing | IPv4, subnetting fundamentals |
 | Protocols & ports | TCP, UDP, DNS, DHCP, HTTP/HTTPS |
-| Network infrastructure | Routing, switching concepts, common services |
+| Infrastructure | Routing, switching concepts, common services |
 | Analysis | Packet flow, traffic inspection, connectivity troubleshooting |
 | Web security | Requests, responses, cookies, sessions, proxies, common vulnerabilities |
 
-**Cybersecurity objectives**
+</details>
+
+<details>
+<summary><code>＋ SECURITY OBJECTIVES</code></summary>
+
 - Improve Linux and command-line proficiency.
 - Build stronger networking and packet-analysis fundamentals.
 - Practice web security testing with OWASP ZAP.
 - Explore BlackArch utilities and understand when to use them.
-- Solve CTF challenges and keep structured lab notes.
+- Solve CTF challenges and maintain structured lab notes.
 - Develop a responsible, ethical approach to security research.
+
+</details>
 
 ---
 
-## `02 // SOFTWARE DEVELOPMENT TRACK`
+## <a id="development"></a> <code>02 // SOFTWARE DEVELOPMENT TRACK</code>
 
-**DESIGN · CODE · DEBUG · BUILD**
+<p><code>[ DESIGN ] → [ CODE ] → [ DEBUG ] → [ BUILD ]</code></p>
 
-I also enjoy creating practical applications and turning ideas into working prototypes. My current development foundation is front-end web development, while I continue strengthening core programming and software engineering concepts.
+I enjoy creating practical applications and turning ideas into working prototypes. My current development foundation is front-end web development, while I continue strengthening core programming and software engineering concepts.
 
-**Current development stack**
+**CURRENT STACK**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code and Linux">
 </p>
 
-- **Frontend:** HTML, CSS, JavaScript.
-- **Developer workflow:** Git, GitHub, VS Code, browser-based debugging.
-- **Core foundations:** OOP, Data Structures & Algorithms, databases, and problem solving.
+| AREA | FOCUS |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Workflow | Git, GitHub, VS Code, browser debugging |
+| Core foundations | OOP, DSA, databases, problem solving |
+| Exploring next | MERN stack and practical AI integrations |
 
-**What I'm growing into**
-- **MERN Stack:** exploring MongoDB, Express.js, React, and Node.js to expand from frontend into full-stack development.
-- **AI & emerging technologies:** learning how AI can be applied in useful software and real-world projects.
-- **Software engineering:** writing cleaner code, structuring projects, debugging, and improving maintainability.
+<details>
+<summary><code>＋ DEVELOPMENT ROADMAP</code></summary>
 
-**Developer objectives**
 - Strengthen JavaScript and programming fundamentals.
 - Build more complete web applications.
 - Progress toward full-stack development with the MERN ecosystem.
@@ -134,26 +145,63 @@ I also enjoy creating practical applications and turning ideas into working prot
 - Explore practical AI integrations.
 - Write maintainable code and use Git/GitHub effectively.
 
+</details>
+
 ---
 
-### `03 // PROJECTS & BUILDS`
+## <a id="projects"></a> <code>03 // PROJECTS & BUILDS</code>
 
-| Project | Track | Description |
-|---|---|---|
-| [**Guide-Motion**](https://github.com/r3con-ng/Guide-Motion) | Software Development | A simulated railway companion prototype for exploring train journeys, station facilities, and passenger services. |
-| [**KisanConnect**](https://github.com/r3con-ng/KisanConnect) | Software Development | A bilingual farmer-to-consumer marketplace prototype built around an Indian agriculture use case. |
-| [**Diet-chart**](https://github.com/r3con-ng/Diet-chart) | Software Development | A browser-based diet chart builder with nutrition tracking and export features. |
+<p><sub>SELECT A PROJECT TO OPEN ITS REPOSITORY</sub></p>
 
-### `04 // CURRENT STATUS`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / GUIDE-MOTION</h3>
+      <p><code>RAILWAY COMPANION</code></p>
+      A simulated railway companion prototype for exploring train journeys, station facilities, and passenger services.
+      <p><a href="https://github.com/r3con-ng/Guide-Motion"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF88?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111"></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / KISANCONNECT</h3>
+      <p><code>AGRI MARKETPLACE</code></p>
+      A bilingual farmer-to-consumer marketplace prototype built around an Indian agriculture use case.
+      <p><a href="https://github.com/r3con-ng/KisanConnect"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF88?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / DIET-CHART</h3>
+      <p><code>NUTRITION PLANNER</code></p>
+      A browser-based diet chart builder with nutrition tracking and export features.
+      <p><a href="https://github.com/r3con-ng/Diet-chart"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF88?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111"></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / MORE INCOMING</h3>
+      <p><code>BUILD LOG: CONTINUOUS</code></p>
+      New experiments, prototypes, and learning projects will appear here as they take shape.
+      <p><a href="https://github.com/r3con-ng?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_BUILDS-39FF88?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111"></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <a id="status"></a> <code>04 // SYSTEM STATUS</code>
 
 ```text
-[ CYBERSECURITY ]  Linux / BlackArch / OWASP ZAP / Networking / CTF
-[ DEVELOPMENT  ]  HTML / CSS / JavaScript / Git / Web Applications
-[ EXPLORING    ]  MERN Stack / AI / Security Tooling / Packet Analysis
-[ MINDSET      ]  Build responsibly. Test ethically. Keep learning.
+┌──────────────────────────────────────────────────────────────┐
+│  DARK ANDR0XY // LEARNING MONITOR                             │
+├──────────────────────────────────────────────────────────────┤
+│  CYBERSECURITY   [ ACTIVE ]  Linux / Networking / Web Security│
+│  DEVELOPMENT    [ ACTIVE ]  HTML / CSS / JavaScript / Git    │
+│  EXPLORING      [ ONGOING ] MERN / AI / Packet Analysis       │
+│  MINDSET        [ ONLINE ]  Build responsibly. Test ethically.│
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### `05 // GITHUB TELEMETRY`
+---
+
+## <a id="telemetry"></a> <code>05 // GITHUB TELEMETRY</code>
 
 <p align="center">
   <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics">
@@ -163,18 +211,29 @@ I also enjoy creating practical applications and turning ideas into working prot
   <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution and profile summary">
 </p>
 
-### `06 // CONNECT`
+---
 
-<p align="center">
-  Interested in cybersecurity, software development, Linux, open source, CTFs, and building useful technology.
-</p>
-<p align="center">
-  <a href="https://r3con-ng.modulify.website/">Portfolio</a> &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/vaibhavpandey2006">LinkedIn</a> &nbsp; • &nbsp;
-  <a href="https://github.com/r3con-ng">GitHub</a>
-</p>
+## <a id="connect"></a> <code>06 // ESTABLISH CONNECTION</code>
 
-<p align="center">
-  <code>[ CYBERSECURITY: ACTIVE ]</code> &nbsp; <code>[ DEVELOPMENT: ACTIVE ]</code> &nbsp; <code>[ LEARNING: ALWAYS ]</code>
-</p>
-<p align="center"><sub>UNDERSTAND • BUILD • TEST • SECURE</sub></p>
+<div align="center">
+
+<pre>
+$ contact --initialize
+[+] Looking for builders, learners and collaborators...
+[+] Connection channels available.
+</pre>
+
+<a href="https://r3con-ng.modulify.website/">
+  <img src="https://img.shields.io/badge/01__PORTFOLIO-OPEN%20PORTFOLIO-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF88&labelColor=080D0A" alt="Portfolio">
+</a>
+<a href="https://linkedin.com/in/vaibhavpandey2006">
+  <img src="https://img.shields.io/badge/02__LINKEDIN-CONNECT-39FF88?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=080D0A" alt="LinkedIn">
+</a>
+<a href="https://github.com/r3con-ng">
+  <img src="https://img.shields.io/badge/03__GITHUB-EXPLORE%20BUILDS-39FF88?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=080D0A" alt="GitHub">
+</a>
+
+<p><code>[ CYBERSECURITY: ACTIVE ] [ DEVELOPMENT: ACTIVE ] [ LEARNING: ALWAYS ]</code></p>
+<p><sub>UNDERSTAND • BUILD • TEST • SECURE</sub></p>
+
+</div>
