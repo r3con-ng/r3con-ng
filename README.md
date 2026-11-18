@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://r3con-ng.modulify.website/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=111111&labelColor=111111" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/vaibhavpandey2006"><img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/r3con-ng"><img src="https://img.shields.io/badge/GITHUB-r3con--ng-111111?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/FOCUS-TWO%20TRACKS-39FF88?style=for-the-badge&labelColor=111111" alt="Two focus tracks">
@@ -154,6 +155,7 @@ I also enjoy creating practical applications and turning ideas into working prot
   Interested in cybersecurity, software development, Linux, open source, CTFs, and building useful technology.
 </p>
 <p align="center">
+  <a href="https://r3con-ng.modulify.website/">Portfolio</a> &nbsp; • &nbsp;
   <a href="https://linkedin.com/in/vaibhavpandey2006">LinkedIn</a> &nbsp; • &nbsp;
   <a href="https://github.com/r3con-ng">GitHub</a>
 </p>
