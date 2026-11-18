@@ -141,11 +141,11 @@ I also enjoy creating practical applications and turning ideas into working prot
 ### `05 // GITHUB TELEMETRY`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=r3con-ng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=C9D1D9" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3con-ng&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9" alt="Most used languages">
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics">
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages used across repositories">
 </p>
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=r3con-ng&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution and profile summary">
 </p>
 
 ### `06 // CONNECT`
