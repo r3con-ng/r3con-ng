@@ -1,3 +1,17 @@
+<!-- FEATURED PORTFOLIO — primary profile destination -->
+<div align="center">
+  <h1>↗ EXPLORE MY PORTFOLIO</h1>
+  <p><strong>CYBERSECURITY · SOFTWARE DEVELOPMENT · PROJECTS</strong></p>
+  <p>A closer look at what I build, what I explore, and what I'm learning.</p>
+  <a href="https://r3con-ng.modulify.website/">
+    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-ENTER%20THE%20SYSTEM-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=111111&labelColor=111111" alt="Open DARK ANDR0XY portfolio">
+  </a>
+  <br>
+  <sub> r3con-ng.modulify.website </sub>
+</div>
+
+---
+
 <!--
   DARK ANDR0XY // GitHub profile
   Two tracks: Cybersecurity × Software Development
