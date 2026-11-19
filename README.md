@@ -6,11 +6,11 @@
   <p><code>root@r3con-ng:~$ ./initialize_profile.sh</code></p>
   <p><strong>CYBERSECURITY <code>×</code> SOFTWARE DEVELOPMENT</strong></p>
 
-  <a href="https://r3con-ng.modulify.website/">
+  <a href="https://r3con-ng.vercel.app/">
     <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20MY%20PORTFOLIO-ENTER%20THE%20SYSTEM-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF88&labelColor=080D0A" alt="Launch portfolio">
   </a>
 
-  <p><code>r3con-ng.modulify.website</code></p>
+  <p><code>r3con-ng.vercel.app</code></p>
   <p><sub>PROJECTS • EXPERIMENTS • SKILLS • CURRENT BUILDS</sub></p>
 
   <p>
@@ -223,7 +223,7 @@ $ contact --initialize
 [+] Connection channels available.
 </pre>
 
-<a href="https://r3con-ng.modulify.website/">
+<a href="https://r3con-ng.vercel.app/">
   <img src="https://img.shields.io/badge/01__PORTFOLIO-OPEN%20PORTFOLIO-39FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF88&labelColor=080D0A" alt="Portfolio">
 </a>
 <a href="https://linkedin.com/in/vaibhavpandey2006">
