@@ -113,13 +113,34 @@ For details about my education, training, and professional journey, visit [vaibh
 
 ## `04 // SELECTED PROJECTS`
 
+### <a href="https://github.com/r3con-ng/Trustlens-AI">TrustLens AI</a> · Digital Safety & Scam Analysis
+
+<a href="https://github.com/r3con-ng/Trustlens-AI">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111" alt="Featured project">
+</a>
+<img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and FastAPI">
+<img src="https://img.shields.io/badge/JavaScript-HTML-CSS-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript, HTML and CSS">
+
+**TrustLens AI** is a digital-safety project focused on helping people assess suspicious online activity and understand common scam warning signs.
+
+- **URL Shield** — inspect suspicious links and identify phishing-related indicators.
+- **Message Shield** — analyse suspicious messages for scam patterns and manipulative language.
+- **Call Shield** — assess suspicious call details or transcripts for potential fraud indicators.
+
+The project is being developed with **Python, FastAPI, HTML, CSS, and JavaScript**. Its current analysis uses rule-based checks and explanatory risk indicators; trained machine-learning detection and live threat-intelligence integrations are not claimed as implemented.
+
+**Project direction:** make digital-safety checks understandable, explain why something may be risky, and provide practical next steps—not just a risk label.
+
+[Explore TrustLens AI on GitHub →](https://github.com/r3con-ng/Trustlens-AI)
+
+### Other selected projects
+
 | PROJECT | OVERVIEW | REPOSITORY |
 |---|---|---|
 | **KisanConnect** | Farmer-to-consumer marketplace prototype developed with Team Straw Hats for BGI Hackathon 2026. | [View project](https://github.com/r3con-ng/KisanConnect) |
 | **Guide-Motion** | Railway travel companion concept covering train journeys and passenger facilities. | [View project](https://github.com/r3con-ng/Guide-Motion) |
 | **Diet Chart Generator** | Browser-based diet chart application for Shape Squad Fitness Centre. | [View project](https://github.com/r3con-ng/Diet-chart) |
 | **CraveCart** | Responsive food-ordering storefront prototype. | [View project](https://github.com/r3con-ng/Crave-Cart) |
-| **TrustLens AI** | Digital-safety concept for identifying warning signs in suspicious links, messages, and calls. | [View project](https://github.com/r3con-ng/Trustlens-AI) |
 
 [Explore all repositories →](https://github.com/r3con-ng?tab=repositories)
 
@@ -129,6 +150,7 @@ For details about my education, training, and professional journey, visit [vaibh
 
 - Strengthening Python, JavaScript, and Bash fundamentals.
 - Practising problem-solving, OOP, DSA, and DBMS.
+- Actively developing **TrustLens AI** and exploring practical approaches to digital scam detection.
 - Building practical web development projects.
 - Learning networking and cybersecurity through guided labs and CTF challenges.
 - Improving software engineering habits through consistent building and iteration.
